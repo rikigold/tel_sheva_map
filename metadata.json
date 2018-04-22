@@ -1,0 +1,12 @@
+{
+  "name": "TelShevaTiles",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "13",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [34.84022358, 31.23710505, 34.87513936, 31.26062305],
+  "profile": "mercator"
+}
